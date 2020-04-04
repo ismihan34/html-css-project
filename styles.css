@@ -1,0 +1,10 @@
+body{
+    background-color: lightgrey;
+ }
+h1{
+ align-items: center;
+ font-size: 32px;
+ }
+ article:first-child {
+    border: 3px solid brown;
+ }
